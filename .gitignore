@@ -1,1 +1,5 @@
 /build/
+/META-INF/
+/.settings/
+.classpath
+
